@@ -245,6 +245,7 @@ void* my_task(void* arg)
 	return NULL;
 }
 
+/*
 int main(int argc,char* argv[])
 {
 	int i;
@@ -256,8 +257,8 @@ int main(int argc,char* argv[])
 	}
 
 	//int pool_addtask(void* (*process)(void*),void* arg);
-	
 	sleep(15);
 	destroy_pool(pool);
 	return 0;
 }
+*/
