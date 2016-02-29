@@ -1,6 +1,8 @@
-//
-// Created by cl-k on 11/30/15.
-//
+//该代码文件是@zouxiaohang同学用C++写的解析http报文的代码
+//链接：http://www.cnblogs.com/zxh1210603696/p/3371715.html
+//由于项目之前都是用C写的，相比来说C处理字符串真是不方便
+//用的是C++写的
+
 
 #ifndef HELLO_CLION_PARSE_H
 #define HELLO_CLION_PARSE_H

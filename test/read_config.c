@@ -2,7 +2,7 @@
 	> File Name: _strstr.c
 	> Author: pirlck
 	> Mail: cl.kuang@gmail.com 
-	> Created Time: Sat 05 Dec 2015 07:32:36 PM PST
+	> Created Time: Sat 04 Oct 2015 8:32:36 PM PST
  ************************************************************************/
 
 #include <stdio.h>
